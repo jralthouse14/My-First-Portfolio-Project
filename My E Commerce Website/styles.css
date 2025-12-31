@@ -149,7 +149,7 @@ li {
 }
 
 header {
-    height: calc(100vh - 80px);
+    min-height: 110vh;
 }
 
 .header__container {
